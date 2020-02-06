@@ -94,7 +94,7 @@ h1 {
 
 @media (max-width: 1200px) {
   main {
-    width: 150vw;
+    width: 100vw;
   }
 section.full {
   width:100vw;
